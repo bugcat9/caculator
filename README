@@ -1,0 +1,2 @@
+//caculate当中是源码，caculate打包当中是静态的已经打包好的文件，caculate_boxed.exe是动态打包好的exe
+//环境为QT5.12
